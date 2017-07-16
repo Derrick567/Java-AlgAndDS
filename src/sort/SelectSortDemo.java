@@ -1,6 +1,6 @@
 package sort;
 
-public class SortDemo {
+public class SelectSortDemo {
 	
 	public static void main(String[] args) {
 		int arr[] = {5,6,4,9,1};
